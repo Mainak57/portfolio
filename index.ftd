@@ -19,7 +19,7 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logoURL: /portfolio
 header-item1: Home
 header-item2: About
 header-item3: Blogs
@@ -69,7 +69,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Mainak Banerjee,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -91,7 +91,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:mainakbanerjee79@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
@@ -108,15 +108,15 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://www.linkedin.com/in/mainakbanerjee-75b840227
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/MainakB37712787?t=ofE4SDR6hXyX1knku1vJ9g&s=09
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/Mainak57
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
